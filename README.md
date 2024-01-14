@@ -17,7 +17,7 @@ Ele define um conjunto de regras para criar e integrar diferentes branches no de
 ### Imagem de exemplo
 
 <br />
-<img height="400em" src="https://wac-cdn.atlassian.com/dam/jcr:cc0b526e-adb7-4d45-874e-9bcea9898b4a/04%20Hotfix%20branches.svg?cdnVersion=1351" align="center" />
+<img height="400em" src="./images/01_branches.svg" align="center" />
 <br />
 
 ### Padrão de branches
