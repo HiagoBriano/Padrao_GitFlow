@@ -37,3 +37,19 @@ Ele define um conjunto de regras para criar e integrar diferentes branches no de
   - O primeiro número aumenta quando a nova versão não é compativél com a primeira.
   - O segundo número aumenta quando uma nova funcionalidade é adicionada.
   - O terceiro número aumenta quando foi corrigido um erro que foi para produção.
+
+## Commits Semânticos
+
+- `feat` é para adições de novas funcionalidades ou de quaisquer outras novas implantações ao código;
+- `fix` refere-se às correções de bugs;
+- `docs` referem-se a inclusão ou alteração somente de arquivos de documentação;
+- `perf` é para alteração de código que melhora o desempenho;
+- `refactor` é utilizado em quaisquer mudanças que sejam executados no código, porém não alterem a funcionalidade final da tarefa impactada;
+- `style` é usadado para alterações referentes a formatações na apresentação do código que não afetam o significado do código, como por exemplo: espaço em branco, formatação, ponto e vírgula ausente etc.);
+- `test` é para adicionar testes ausentes ou corrigindo testes existentes nos processos de testes automatizados (TDD);
+- `env` é basicamente utilizado na descrição de modificações ou adições em arquivos de configuração em processos e métodos de integração contínua (CI).
+
+
+
+
+
